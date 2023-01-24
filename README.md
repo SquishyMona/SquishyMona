@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @SquishyMona
-- 👀 I’m interested in compooter
-- 🌱 I’m currently learning compooer
-- 💞️ I’m looking to collaborate on compooter
-- 📫 How to reach me compooter
+Hey, I'm Squishy. I like computers and stuff.
+
+I'm currently working on my Bachelor's in Computer Science. I have knowledge in C#, C++, Python, and Swift.
 
 <!---
 SquishyMona/SquishyMona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
