@@ -1,4 +1,4 @@
-Hey, I'm Squishy. I like computers and stuff.
+Hey, I'm Ian. I like computers and stuff.
 
 I'm currently working on my Bachelor's in Computer Science. I'm proficient in Python and TypeScript, with knowledge also in C++, C#, and HTML/CSS.
 
