@@ -1,8 +1,8 @@
-Hey, I'm Ian. I like computers and stuff.
+Hey, I'm Ian.
 
-I'm currently working on my Bachelor's in Computer Science. I'm proficient in Python and TypeScript, with knowledge also in C++, C#, and HTML/CSS.
+Recently graduated from SUNY Fredonia, B.S Computer Science. Proficient in TypeScript and Python, with knowledge also in C++, C#, and HTML/CSS.
 
-I work a lot on web development primarily using React and Next.JS, but also have some interest in mobile development with .NET MAUI and Swift. 
+I work a lot on web development primarily using React and Next.JS, but also enjoy creating small apps such as Discord bots as well.
 
 <!---
 SquishyMona/SquishyMona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
